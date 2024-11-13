@@ -1,0 +1,25 @@
+
+*{   display: ruby-base-container;
+	background-color: rgb(35, 32, 32);
+	color: red;
+	border: none;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: large;
+	font-weight: 400;
+	
+	font-stretch: semi-condensed;
+}
+.mb-3{
+	display:flexbox;
+	max-width: fit-content;
+	align-self: center;
+}
+.animate__zoomOutDown {
+	width: 50%;
+
+}
+
+
+
+
+
